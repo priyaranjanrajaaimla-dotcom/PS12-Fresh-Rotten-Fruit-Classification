@@ -1,0 +1,15 @@
+{
+  "test_accuracy": 0.9848035581912528,
+  "test_macro_f1": 0.9845417410858611,
+  "fruit_type_accuracy": 0.9944403261675315,
+  "fresh_rotten_accuracy": 0.9899925871015567,
+  "training_time_minutes": 6.432388548056284,
+  "classes": [
+    "freshapples",
+    "freshbanana",
+    "freshoranges",
+    "rottenapples",
+    "rottenbanana",
+    "rottenoranges"
+  ]
+}
